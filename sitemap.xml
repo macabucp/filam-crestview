@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 	<url>
-		<loc>http://localhost/index.html</loc>
+		<loc>https://macabucp.github.io/filam-crestview/index.html</loc>
 		<lastmod>2024-06-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://localhost/contact.html</loc>
+		<loc>https://macabucp.github.io/filam-crestview/contact.html</loc>
 		<lastmod>2024-06-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://localhost/business-directory.html</loc>
+		<loc>https://macabucp.github.io/filam-crestview/business-directory.html</loc>
 		<lastmod>2024-06-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://localhost/who-we-are.html</loc>
+		<loc>https://macabucp.github.io/filam-crestview/who-we-are.html</loc>
 		<lastmod>2024-06-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://localhost/blog/</loc>
+		<loc>https://macabucp.github.io/filam-crestview/blog/</loc>
 		<lastmod>2024-06-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>

@@ -1,11 +1,11 @@
 {
 	"name": "filam-crestview Admin",
-	"start_url": "http://localhost/admin/",
+	"start_url": "https://macabucp.github.io/filam-crestview/admin/",
 	"display": "standalone",
 	"background_color": "#E5E5E5",
 	"theme_color": "#F28D4F",
-	"scope": "http://localhost/admin/",
+	"scope": "https://macabucp.github.io/filam-crestview/admin/",
 	"icons": [
-		{ "src": "http://localhost/admin/images/logo_kbxuxq2f.png", "type": "image/png", "sizes": "126x126" }
+		{ "src": "https://macabucp.github.io/filam-crestview/admin/images/logo_pbuj2amn.png", "type": "image/png", "sizes": "126x126" }
 	]
 }

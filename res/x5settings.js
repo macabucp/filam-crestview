@@ -4,7 +4,7 @@
 		p = s.currentPath,
 		b = x.boot;
 
-	s.siteId = 'EACB80B5B712B2BE11BDDAA692A21F7D';
+	s.siteId = 'B234080A113CFE7B2EF7F996694EE932';
 	s.dateFormat = 'dd MMM yyyy';
 	s.dateFormatExt = 'dddd dd MMM yyyy';
 	s.version = '2024-2-4-0';

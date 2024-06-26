@@ -7,9 +7,9 @@
 */
 
 $imSettings['general'] = array(
-	'site_id' => 'EACB80B5B712B2BE11BDDAA692A21F7D',
-	'url' => 'http://localhost/',
-	'homepage_url' => 'http://localhost/index.html',
+	'site_id' => 'B234080A113CFE7B2EF7F996694EE932',
+	'url' => 'https://macabucp.github.io/filam-crestview/',
+	'homepage_url' => 'https://macabucp.github.io/filam-crestview/index.html',
 	'icon' => '',
 	'version' => '2024.2.4.0',
 	'sitename' => 'filam-crestview',
@@ -40,14 +40,14 @@ $imSettings['password_policy'] = array(
 |	Captcha
 |-------------------------------
 */ImTopic::$captcha_code = "		<div class=\"x5captcha-wrap\">
-			<label for=\"le9oap60-imCpt\">Check word:</label><br />
-			<input type=\"text\" id=\"le9oap60-imCpt\" class=\"imCpt\" name=\"imCpt\" maxlength=\"5\" />
+			<label for=\"ee1pptkv-imCpt\">Check word:</label><br />
+			<input type=\"text\" id=\"ee1pptkv-imCpt\" class=\"imCpt\" name=\"imCpt\" maxlength=\"5\" />
 		</div>
 ";
 
 
 $imSettings['admin'] = array(
-	'icon' => 'admin/images/logo_kbxuxq2f.png',
+	'icon' => 'admin/images/logo_pbuj2amn.png',
 	'notification_public_key' => 'BO9qQxWauAggh0GK3ho9i610btqWYqOPABDCsNyAS0cs_1d1Z3fOAxfZLfyuF3Wfgo_Mqk_LygFjVpAqGemNWJA',
 	'notification_private_key' => 'FZYuBNPESEO7Jh62sbKYQgq5z2omrrwFGFEINlxAhm8',
 	'notification_dbprefix' => 'w5_fs8jhna9_notifications_',
@@ -65,7 +65,7 @@ $imSettings['admin'] = array(
 */
 
 $imSettings['databases'] = array(
-	'6no33uhi' => array(
+	'w7f5oql7' => array(
 		'description' => '',
 		'host' => 'localhost',
 		'database' => 'krd5vk7t_db',
@@ -82,7 +82,7 @@ $couponData['products'] = array();
 $ecommerce->setPublicFolder('');
 $ecommerce->setCouponData($couponData);
 $ecommerce->setSettings(array(
-	'page_url' => 'http://localhost/',
+	'page_url' => 'https://macabucp.github.io/filam-crestview/',
 	'force_sender' => false,
 	'mail_btn_css' => 'display: inline-block; text-decoration: none; color: rgba(67, 67, 67, 1); background-color: rgba(255, 255, 255, 1); padding: 10px 10px 10px 10px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: rgba(67, 67, 67, 1) rgba(67, 67, 67, 1) rgba(67, 67, 67, 1) rgba(67, 67, 67, 1); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px;',
 	'email_opening' => 'Dear Customer,<br /><br />Thank you for your order. We remind you that we are waiting for your payment.<br /><br />Below you will find the list of the products you have ordered, the billing and shipping details and the instructions to complete the payment.',
@@ -196,7 +196,7 @@ $imSettings['dynamicobjects'] = array(	'template' => array(
 
 $ImMailer->emailType = 'phpmailer';
 $ImMailer->exposeWsx5 = true;
-$ImMailer->header = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">' . "\n" . '<html>' . "\n" . '<head>' . "\n" . '<meta http-equiv="content-type" content="text/html; charset=utf-8">' . "\n" . '<meta name="generator" content="Incomedia WebSite X5 Professional 2024.2.4 - www.websitex5.com">' . "\n" . '</head>' . "\n" . '<body bgcolor="#37474F" style="background-color: #37474F;">' . "\n\t" . '<table border="0" cellpadding="0" align="center" cellspacing="0" style="padding: 0; margin: 0 auto; width: 700px; border-collapse: separate; ">' . "\n\t" . '<tr><td id="imEmailHeader" style="text-align: center; width: 700px;border-top-style: solid; border-top-color: #000000; border-top-width: 1px; border-left-style: solid; border-left-color: #000000; border-left-width: 1px; border-right-style: solid; border-right-color: #000000; border-right-width: 1px; border-bottom-style: none; border-bottom-color: transparent; border-bottom-width: 0px; border-bottom: none; border-top-left-radius: 0px; border-top-right-radius: 0px; background-color: #FFFFFF;" width="700"><img src="http://localhost/images/filam-crestview-logo_g69bwypj.png" style="width: 100px; border: none; background-color: WebsiteX5.BL.Core.Settings.XMLColor; margin-top: 10px; margin-bottom: 10px; margin-left: 10px;margin-right: 10px;" width="100"; ></td></tr>' . "\n\t" . '<tr><td id="imEmailContent" style="min-height: 300px; padding: 10px; font: normal normal normal 12pt \'Bitter\'; color: #000000; background-color: #FFFFFF; text-decoration: none; text-align: left; width: 700px; border-style: solid; border-color: #000000 #000000 #000000 #000000; border-top-width: 0px; border-top: none; border-right-width: 1px; border-bottom-width: 0; border-bottom: none; border-left-width: 1px; margin-top: 25px;  margin-bottom: 25px;  margin-left: 25px;  margin-right: 25px;  background-color: #FFFFFF" width="700px">' . "\n\t\t";
+$ImMailer->header = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">' . "\n" . '<html>' . "\n" . '<head>' . "\n" . '<meta http-equiv="content-type" content="text/html; charset=utf-8">' . "\n" . '<meta name="generator" content="Incomedia WebSite X5 Professional 2024.2.4 - www.websitex5.com">' . "\n" . '</head>' . "\n" . '<body bgcolor="#37474F" style="background-color: #37474F;">' . "\n\t" . '<table border="0" cellpadding="0" align="center" cellspacing="0" style="padding: 0; margin: 0 auto; width: 700px; border-collapse: separate; ">' . "\n\t" . '<tr><td id="imEmailHeader" style="text-align: center; width: 700px;border-top-style: solid; border-top-color: #000000; border-top-width: 1px; border-left-style: solid; border-left-color: #000000; border-left-width: 1px; border-right-style: solid; border-right-color: #000000; border-right-width: 1px; border-bottom-style: none; border-bottom-color: transparent; border-bottom-width: 0px; border-bottom: none; border-top-left-radius: 0px; border-top-right-radius: 0px; background-color: #FFFFFF;" width="700"><img src="https://macabucp.github.io/filam-crestview/images/filam-crestview-logo_g69bwypj.png" style="width: 100px; border: none; background-color: WebsiteX5.BL.Core.Settings.XMLColor; margin-top: 10px; margin-bottom: 10px; margin-left: 10px;margin-right: 10px;" width="100"; ></td></tr>' . "\n\t" . '<tr><td id="imEmailContent" style="min-height: 300px; padding: 10px; font: normal normal normal 12pt \'Bitter\'; color: #000000; background-color: #FFFFFF; text-decoration: none; text-align: left; width: 700px; border-style: solid; border-color: #000000 #000000 #000000 #000000; border-top-width: 0px; border-top: none; border-right-width: 1px; border-bottom-width: 0; border-bottom: none; border-left-width: 1px; margin-top: 25px;  margin-bottom: 25px;  margin-left: 25px;  margin-right: 25px;  background-color: #FFFFFF" width="700px">' . "\n\t\t";
 $ImMailer->footer = "\n\t" . '</td></tr>' . "\n\t" . '<tr><td id="imEmailIcons" style="background-color: #FFFFFF;border-left-style: solid; border-left-color: #000000; border-left-width: 1px; border-right-style: solid; border-right-color: #000000; border-right-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; border-bottom-width: 1px; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px;  padding-top: 25px;  padding-bottom: 25px;  padding-left: 15px;  padding-right: 15px;  text-align: center;  min-height: 300px; " width="700"></td></tr>' . "\n\t" . '</table>' . "\n" . '<table width="100%"><tr><td id="imEmailFooter" style="font: normal normal normal 9pt \'Bitter\'; color: #FFFFFF; background-color: transparent; text-decoration: none; text-align: center;  padding: 10px; margin-top: 5px;background-color: transparent">' . "\n\t\t" . 'This e-mail contains information that is intended solely for the above mentioned addressee.<br>If you have received this e-mail by error, please notify the sender immediately and destroy it, without copying it.' . "\n\t" . '</td></tr></table>' . "\n\t" . '</body>' . "\n" . '</html>';
 $ImMailer->bodyBackground = '#FFFFFF';
 $ImMailer->bodyBackgroundEven = '#FFFFFF';
